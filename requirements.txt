@@ -1,0 +1,6 @@
+base58
+streamlit
+streamlit-lottie
+plotly
+streamlit-option-menu
+web3
