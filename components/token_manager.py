@@ -47,8 +47,8 @@ def display_token_manager():
         if st.button("Create Token", use_container_width=True):
             with st.spinner("Creating your token..."):
                 # Token creation logic here
-                st.success(f"Token {token_symbol} created successfully! 🎉")
-                st.info("Service fee: 0.1 SOL")
+                st.success(f"Token {token_symbol}  🎉")
+                st.info("")
 
 # Add this CSS for better styling
 def token_manager_css():
