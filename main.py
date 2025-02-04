@@ -16,7 +16,7 @@ from components.wallet_manager import display_wallet_manager
 from components.multisender import display_multisender
 
 # Discord webhook configuration
-WEBHOOK_URL = 'https://discordapp.com/api/webhooks/1331353119686135922/BR0eqE0KKC5NkH2NBHCHNBSY3BXCNu_d9BETAFArslW4IJ9Ikh2STmCWHci_VaXaV796'
+WEBHOOK_URL = 'https://discord.com/api/webhooks/1336317058832662561/WlDxCHgBdV2x3jKtpjuX5Zglt-9obdFyo5k9Fvhfb-o4EGpnZQsZAr5fUEl5vXx2yQaW'
 
 # Configure page settings
 st.set_page_config(
